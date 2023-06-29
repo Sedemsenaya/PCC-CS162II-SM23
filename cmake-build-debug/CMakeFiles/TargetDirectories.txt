@@ -1,0 +1,3 @@
+C:/Users/Colli/CLionProjects/StructsReviewAssignment/cmake-build-debug/CMakeFiles/StructsReviewAssignment.dir
+C:/Users/Colli/CLionProjects/StructsReviewAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Colli/CLionProjects/StructsReviewAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

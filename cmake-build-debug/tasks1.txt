@@ -1,0 +1,10 @@
+1. 15;Data Transmission and Storage;4;Carlos Johnston;Communications
+2. 28;Replace ventilation filters;2;Carlos Johnston;Maintenance
+3. 21;Network security audit;3;Emily Hernandez;Communications
+4. 9;Adjust fuel rods;3;Gail Lawhead;Operations
+5. 14;Replace ventilation ion filters;2;Karma Thames;Maintenance
+6. 7;Computer system diagnostic;2;Kelli Weeberly;Communications
+7. 12;Routine equipment calibration;1;Oliver Banks;Operations
+8. 7;Food system checkup;2;Richard Moody;Inventory
+9. 13;Hull debris sweep;4;Richard Moodyl;Operations
+10. 5;Replace ventilation filters;2;Robbie Mitchell;Maintenance
