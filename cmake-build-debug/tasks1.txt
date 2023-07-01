@@ -1,0 +1,12 @@
+1. 8;Surface static discharge;3;Ambrosse Kalias;Others
+2. 15;Data Transmission and Storage;4;Carlos Johnston;Communications
+3. 28;Replace ventilation filters;2;Carlos Johnston;Maintenance
+4. 21;Network security audit;3;Emily Hernandez;Communications
+5. 9;Adjust fuel rods;3;Gail Lawhead;Operations
+6. 14;Replace ventilation ion filterKarma Thames;2;Karma Thames;Maintenance
+7. 7;Computer system diagnostic;2;Kelli Weeberly;Communications
+8. 12;Routine equipment calibration;1;Oliver Banks;Operations
+9. 7;Food system checkup;2;Richard Moody;Inventory
+10. 13;Hull debris sweep;4;Richard Moodyl;Operations
+11. 5;Replace ventilation filters;2;Robbie Mitchell;Maintenance
+
